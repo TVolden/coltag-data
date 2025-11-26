@@ -1,0 +1,101 @@
+UserID,SessionID,Timestamp,Type,Intervention
+ba9403c7-231d-4c66-a77e-c0c58f237017,5121a3e1-70ec-4bb7-b382-28d03ca28998,202412091230,bug,Mask wasn't refreshed (disappeared)
+ba9403c7-231d-4c66-a77e-c0c58f237017,5121a3e1-70ec-4bb7-b382-28d03ca28998,202412091231,hint,Scene tool on gas
+ba9403c7-231d-4c66-a77e-c0c58f237017,5121a3e1-70ec-4bb7-b382-28d03ca28998,202412091233,hint,Drag player to scene
+ba9403c7-231d-4c66-a77e-c0c58f237017,5121a3e1-70ec-4bb7-b382-28d03ca28998,202412091236,help,Help with tool
+ba9403c7-231d-4c66-a77e-c0c58f237017,5121a3e1-70ec-4bb7-b382-28d03ca28998,202412091238,help,Helped with planner
+ba9403c7-231d-4c66-a77e-c0c58f237017,5121a3e1-70ec-4bb7-b382-28d03ca28998,202412091240,help,Explained sequence
+ba9403c7-231d-4c66-a77e-c0c58f237017,5121a3e1-70ec-4bb7-b382-28d03ca28998,202412091242,help,Discover new location
+ba9403c7-231d-4c66-a77e-c0c58f237017,2983d2f5-a864-4668-bf68-abf20896161a,202412091256,help,Explained screen tool
+ba9403c7-231d-4c66-a77e-c0c58f237017,2983d2f5-a864-4668-bf68-abf20896161a,202412091258,hint,You can drag the player
+ba9403c7-231d-4c66-a77e-c0c58f237017,2983d2f5-a864-4668-bf68-abf20896161a,202412091300,hint,Open the first door
+ba9403c7-231d-4c66-a77e-c0c58f237017,2983d2f5-a864-4668-bf68-abf20896161a,202412091303,hint,There is actually two identical puzzles
+ba9403c7-231d-4c66-a77e-c0c58f237017,fa4adbfe-01eb-402b-9c89-098b5e834b86,202412091317,hint,You can drag the player
+ba9403c7-231d-4c66-a77e-c0c58f237017,fa4adbfe-01eb-402b-9c89-098b5e834b86,202412091319,hint,Drag masks to the face
+ba9403c7-231d-4c66-a77e-c0c58f237017,80335546-fb25-41d6-aa60-bfccc17073b4,202412091345,bug,Mask disappeared
+ba9403c7-231d-4c66-a77e-c0c58f237017,80335546-fb25-41d6-aa60-bfccc17073b4,202412091345,bug,Door open on reset
+ba9403c7-231d-4c66-a77e-c0c58f237017,80335546-fb25-41d6-aa60-bfccc17073b4,202412091347,explained,I reused the obstacle
+84eabfec-7be2-4fc3-b629-07386b850276,af1ecacc-a6d9-4ead-b36f-47e0c0be6f31,202412101155,help,Helped identified scene tool
+84eabfec-7be2-4fc3-b629-07386b850276,af1ecacc-a6d9-4ead-b36f-47e0c0be6f31,202412101156,help,Helped identify the map
+84eabfec-7be2-4fc3-b629-07386b850276,af1ecacc-a6d9-4ead-b36f-47e0c0be6f31,202412101157,help,Helped how to pick a location
+84eabfec-7be2-4fc3-b629-07386b850276,af1ecacc-a6d9-4ead-b36f-47e0c0be6f31,202412101159,hint,Something popped in the inventory
+84eabfec-7be2-4fc3-b629-07386b850276,af1ecacc-a6d9-4ead-b36f-47e0c0be6f31,202412101200,help,Explained the planner as a sequence tool
+84eabfec-7be2-4fc3-b629-07386b850276,af1ecacc-a6d9-4ead-b36f-47e0c0be6f31,202412101201,hint,Remember the scene tool
+84eabfec-7be2-4fc3-b629-07386b850276,af1ecacc-a6d9-4ead-b36f-47e0c0be6f31,202412101202,help,Explained you can drag scenes from the top
+84eabfec-7be2-4fc3-b629-07386b850276,af1ecacc-a6d9-4ead-b36f-47e0c0be6f31,202412101210,help,Just click the green button
+84eabfec-7be2-4fc3-b629-07386b850276,a6f3d2e3-70e5-4618-87d3-54a0b0f97ad7,202412101231,help,Explained equipment
+84eabfec-7be2-4fc3-b629-07386b850276,a6f3d2e3-70e5-4618-87d3-54a0b0f97ad7,202412101231,help,Explained you can pull the man on scene
+84eabfec-7be2-4fc3-b629-07386b850276,a6f3d2e3-70e5-4618-87d3-54a0b0f97ad7,202412101233,help,Explained the planner as sequence of actions
+84eabfec-7be2-4fc3-b629-07386b850276,a6f3d2e3-70e5-4618-87d3-54a0b0f97ad7,202412101235,help,Explained you can use the scene tool multiple times 
+84eabfec-7be2-4fc3-b629-07386b850276,a6f3d2e3-70e5-4618-87d3-54a0b0f97ad7,202412101237,hint,Left guy is confused
+84eabfec-7be2-4fc3-b629-07386b850276,a6f3d2e3-70e5-4618-87d3-54a0b0f97ad7,202412101240,hint,Sequence is from left to right
+84eabfec-7be2-4fc3-b629-07386b850276,e6456fe6-e657-4103-aa37-71112fbebd8a,202412101343,bug,First scene didn't reset
+84eabfec-7be2-4fc3-b629-07386b850276,00767a77-8e76-4a31-8a62-581c864fd5bc,202412111344,help,Helped equip mask
+84eabfec-7be2-4fc3-b629-07386b850276,00767a77-8e76-4a31-8a62-581c864fd5bc,202412111346,hint,It's the same obstacle
+84eabfec-7be2-4fc3-b629-07386b850276,55e5043c-5af0-419f-abdd-77103c1b6759,202412121146,help,Explained planner 
+84eabfec-7be2-4fc3-b629-07386b850276,55e5043c-5af0-419f-abdd-77103c1b6759,202412121153,help,Explained something
+84eabfec-7be2-4fc3-b629-07386b850276,55e5043c-5af0-419f-abdd-77103c1b6759,202412121155,help,Helped place the second U
+84eabfec-7be2-4fc3-b629-07386b850276,0d2b73b3-e5b0-4d79-b862-1a6197342c6f,202412121225,help,Explained the planner
+84eabfec-7be2-4fc3-b629-07386b850276,6537075b-11d1-4eaa-af4c-cf182be7c037,202412121245,help,Helped with map
+84eabfec-7be2-4fc3-b629-07386b850276,c822210f-5ddb-4986-a430-d7becf1c0d1f,202412121253,help,Explained scene tool
+84eabfec-7be2-4fc3-b629-07386b850276,c822210f-5ddb-4986-a430-d7becf1c0d1f,202412121255,help,Explained equipment scene and new equipment per scene
+84eabfec-7be2-4fc3-b629-07386b850276,c822210f-5ddb-4986-a430-d7becf1c0d1f,202412121258,help,Explained sequence of planner
+84eabfec-7be2-4fc3-b629-07386b850276,c822210f-5ddb-4986-a430-d7becf1c0d1f,202412121259,help,Told where to place second U
+84eabfec-7be2-4fc3-b629-07386b850276,c822210f-5ddb-4986-a430-d7becf1c0d1f,202412121302,help,Explained feedback from play
+84eabfec-7be2-4fc3-b629-07386b850276,c822210f-5ddb-4986-a430-d7becf1c0d1f,202412121304,bug,You can place the scene tool on the utility closet
+84eabfec-7be2-4fc3-b629-07386b850276,bc492af5-64cf-4de8-9307-cda65161ed6c,202412130956,help,Explained scene tool
+84eabfec-7be2-4fc3-b629-07386b850276,bc492af5-64cf-4de8-9307-cda65161ed6c,202412130958,help,Explained sequence of planner
+84eabfec-7be2-4fc3-b629-07386b850276,0a13c546-4673-49b7-ac9e-af1c6914e078,202412131033,help,Explained scene tool and planner
+84eabfec-7be2-4fc3-b629-07386b850276,0a13c546-4673-49b7-ac9e-af1c6914e078,202412131035,help,Explained planner and how to make multiple scenes
+84eabfec-7be2-4fc3-b629-07386b850276,b2faf250-1015-43dd-9dfc-59376fbed448,202412131043,help,Explained planner
+84eabfec-7be2-4fc3-b629-07386b850276,b2faf250-1015-43dd-9dfc-59376fbed448,202412131045,help,Explained the repeated obstacle
+84eabfec-7be2-4fc3-b629-07386b850276,f0d5033c-22e2-47be-808e-3df799bfceec,202412131053,help,Explained scene tool and planner
+84eabfec-7be2-4fc3-b629-07386b850276,f0d5033c-22e2-47be-808e-3df799bfceec,202412131055,help,Explained sequence of the planner
+84eabfec-7be2-4fc3-b629-07386b850276,f0d5033c-22e2-47be-808e-3df799bfceec,202412131057,help,Explained equipment scene
+84eabfec-7be2-4fc3-b629-07386b850276,f0d5033c-22e2-47be-808e-3df799bfceec,202412131059,help,Helped solve the first obstacle
+84eabfec-7be2-4fc3-b629-07386b850276,f0d5033c-22e2-47be-808e-3df799bfceec,202412131103,help,Helped solve the second obstacle
+84eabfec-7be2-4fc3-b629-07386b850276,5491795c-1373-4c7b-8a8a-6b18473bf99d,202412131117,help,Helped get multiple gas scenes
+84eabfec-7be2-4fc3-b629-07386b850276,c8ba1a87-3180-4204-bbd7-a8422376de57,202412131135,help,Helped identify scene tool and how it connects with the planner
+84eabfec-7be2-4fc3-b629-07386b850276,c8ba1a87-3180-4204-bbd7-a8422376de57,202412131140,help,Helped with the sequence
+84eabfec-7be2-4fc3-b629-07386b850276,ee5abd88-5347-4472-8bee-ef92b09fb7a5,202412131200,help,Explained scene tool
+84eabfec-7be2-4fc3-b629-07386b850276,ee5abd88-5347-4472-8bee-ef92b09fb7a5,202412131203,help,Helped find obstacle 1
+84eabfec-7be2-4fc3-b629-07386b850276,ee5abd88-5347-4472-8bee-ef92b09fb7a5,202412131206,help,Helped equip
+84eabfec-7be2-4fc3-b629-07386b850276,bfce0f51-2412-4284-a8da-91e72fa26111,202412131250,help,Explained 
+84eabfec-7be2-4fc3-b629-07386b850276,bfce0f51-2412-4284-a8da-91e72fa26111,202412131254,help,Explained 
+84eabfec-7be2-4fc3-b629-07386b850276,6d0c8679-c65f-42b1-9f32-e9d7dcbeb11b,202412131302,help,Explained scene tool and planner
+84eabfec-7be2-4fc3-b629-07386b850276,42d8499e-8d9b-4312-ac75-de241ac815dd,202412131315,help,Explained the scene tool and planner
+84eabfec-7be2-4fc3-b629-07386b850276,42d8499e-8d9b-4312-ac75-de241ac815dd,202412131316,help,Helped make multiple gas scenes
+84eabfec-7be2-4fc3-b629-07386b850276,eb658702-aead-4a67-8a9a-df8e42fb24d6,202412131335,help,Explained the scene tool and planner
+84eabfec-7be2-4fc3-b629-07386b850276,eb658702-aead-4a67-8a9a-df8e42fb24d6,202412131337,help,Explained planner sequence
+84eabfec-7be2-4fc3-b629-07386b850276,eb658702-aead-4a67-8a9a-df8e42fb24d6,202412131339,help,Helped with sequence
+84eabfec-7be2-4fc3-b629-07386b850276,f60d88a8-2f46-4a50-878f-69d2fda7bf21,202412131349,help,Explained scene tool and planner
+84eabfec-7be2-4fc3-b629-07386b850276,f60d88a8-2f46-4a50-878f-69d2fda7bf21,202412131352,help,Helped get multiple gas scenes
+84eabfec-7be2-4fc3-b629-07386b850276,f60d88a8-2f46-4a50-878f-69d2fda7bf21,202412131353,help,Explained that the obstacle is reused
+84eabfec-7be2-4fc3-b629-07386b850276,3de8cd92-6a26-48c6-9940-57712ef2d550,202412131402,help,Explained scene tool and planner
+84eabfec-7be2-4fc3-b629-07386b850276,3de8cd92-6a26-48c6-9940-57712ef2d550,202412131405,help,Helped use scene tool on gas cloud
+84eabfec-7be2-4fc3-b629-07386b850276,3de8cd92-6a26-48c6-9940-57712ef2d550,202412131407,help,Explained scenes
+84eabfec-7be2-4fc3-b629-07386b850276,3de8cd92-6a26-48c6-9940-57712ef2d550,202412131408,help,Explained sequence and unintuitive order (left<-right)
+84eabfec-7be2-4fc3-b629-07386b850276,64df1c8a-1e5e-457b-a1f5-ad4a5ae59cd2,202412161132,help,Explained scenes and planner
+84eabfec-7be2-4fc3-b629-07386b850276,64df1c8a-1e5e-457b-a1f5-ad4a5ae59cd2,202412161136,help,Explained sequence
+84eabfec-7be2-4fc3-b629-07386b850276,7e3d9cf7-2e0f-4dae-917e-43d22dbdf775,202412161147,help,Helped with scene tool
+84eabfec-7be2-4fc3-b629-07386b850276,7e3d9cf7-2e0f-4dae-917e-43d22dbdf775,202412161149,help,Explained sequence (left<-right)
+84eabfec-7be2-4fc3-b629-07386b850276,c9dcdb15-7aef-4d39-b76e-c14d189c9cc0,202412161159,help,Explained scene tool
+84eabfec-7be2-4fc3-b629-07386b850276,c9dcdb15-7aef-4d39-b76e-c14d189c9cc0,202412161201,help,Helped getting multiple gas scenes
+84eabfec-7be2-4fc3-b629-07386b850276,c9dcdb15-7aef-4d39-b76e-c14d189c9cc0,202412161205,misc,Feedback: survey was annoying which may have influenced the participant's answers
+84eabfec-7be2-4fc3-b629-07386b850276,b4566786-bf1b-4c05-85d7-d1c93c79bff9,202412161213,help,Explained scene tool
+84eabfec-7be2-4fc3-b629-07386b850276,b4566786-bf1b-4c05-85d7-d1c93c79bff9,202412161215,help,Helped remove scenes (no one figures that one out). Explained equipment scene
+84eabfec-7be2-4fc3-b629-07386b850276,b4566786-bf1b-4c05-85d7-d1c93c79bff9,202412161219,hint,Hinted that there were more locations
+84eabfec-7be2-4fc3-b629-07386b850276,00149986-4e2d-4759-921d-7265ce0808e4,202412161229,help,Explained Scene tool and planner
+84eabfec-7be2-4fc3-b629-07386b850276,00149986-4e2d-4759-921d-7265ce0808e4,202412161232,help,Explained planner
+84eabfec-7be2-4fc3-b629-07386b850276,00149986-4e2d-4759-921d-7265ce0808e4,202412161233,help,Explained sequence
+84eabfec-7be2-4fc3-b629-07386b850276,0594d306-1edf-411b-92d0-73b9bab24dea,202412161317,help,Explained scene tool
+84eabfec-7be2-4fc3-b629-07386b850276,0594d306-1edf-411b-92d0-73b9bab24dea,202412161318,help,Helped create player scene
+84eabfec-7be2-4fc3-b629-07386b850276,0594d306-1edf-411b-92d0-73b9bab24dea,202412161322,help,Hinted repeat obstacle
+84eabfec-7be2-4fc3-b629-07386b850276,9a70825c-046d-4c0b-a00c-c178e9f671ae,202412161329,help,Explained scene tool and planner
+84eabfec-7be2-4fc3-b629-07386b850276,9a70825c-046d-4c0b-a00c-c178e9f671ae,202412161330,Hint,You can drag the player
+84eabfec-7be2-4fc3-b629-07386b850276,9a70825c-046d-4c0b-a00c-c178e9f671ae,202412161332,help,Explained player sequence and hinted repeat obstacle
+84eabfec-7be2-4fc3-b629-07386b850276,44787a54-0ec8-4169-93eb-b87992da9ba8,202412161341,help,Explained scene tool and planner and map
+84eabfec-7be2-4fc3-b629-07386b850276,44787a54-0ec8-4169-93eb-b87992da9ba8,202412161343,help,Helped locate gas and explained planner
+84eabfec-7be2-4fc3-b629-07386b850276,44787a54-0ec8-4169-93eb-b87992da9ba8,202412161345,help,Explained planner
+84eabfec-7be2-4fc3-b629-07386b850276,44787a54-0ec8-4169-93eb-b87992da9ba8,202412161346,help,Helped complete first obstacle explained repeated obstacle
+84eabfec-7be2-4fc3-b629-07386b850276,44787a54-0ec8-4169-93eb-b87992da9ba8,202412161348,hint,Hinted paper mask wasn't solution
