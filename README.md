@@ -1,4 +1,5 @@
 # COLTAG Data
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17723271.svg)](https://doi.org/10.5281/zenodo.17723271)
 
 Data was collected from participants play-testing a game procotype called [COLTAG](https://tvoldenitu.itch.io/coltag).
 
