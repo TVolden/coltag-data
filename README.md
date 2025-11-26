@@ -3,6 +3,9 @@
 
 Data was collected from participants play-testing a game procotype called [COLTAG](https://tvoldenitu.itch.io/coltag).
 
+Participants could choose one or two emotions from: Engagement, frustration, boredom, confusion, and neutral.
+Selected emotions were ordered alphabethecally and stored in seperate columns.
+
 | Dataset | Data points | Description |
 | - | - | - |
 | Clicks | 28660 | Mouse events, mouse button pressed and released. Includes pixel coordinates. |
