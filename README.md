@@ -64,18 +64,18 @@ Results from MiniPXI including birth year and gender.
 | SessionID | GUID | Unique ID generated on game start. |
 | Timestamp | Datetime | Local machine date time. |
 | BirthYear | Int | The birth year of the participant. |
-| Gender | String | Gender of participant (Male, Female, <none>). |
-| AUT | Int | Likert-scale -3 to 3. |
-| EC | Int | Likert-scale -3 to 3. |
-| IMM | Int | Likert-scale -3 to 3. |
-| PF | Int | Likert-scale -3 to 3. |
-| MAS | Int | Likert-scale -3 to 3. |
-| MEA | Int | Likert-scale -3 to 3. |
-| ENJ | Int | Likert-scale -3 to 3. |
-| GR | Int | Likert-scale -3 to 3. |
-| CH | Int | Likert-scale -3 to 3. |
-| AA | Int | Likert-scale -3 to 3. |
-| CUR | Int | Likert-scale -3 to 3. |
+| Gender | String | Gender of participant (Male, Female, \<none\>). |
+| AUT | Int | Likert-scale -3 to 3. The Autonomy construct. |
+| EC | Int | Likert-scale -3 to 3. The Ease of Control construct. |
+| IMM | Int | Likert-scale -3 to 3. The Immersion construct. |
+| PF | Int | Likert-scale -3 to 3. The Progress Feedback construct. |
+| MAS | Int | Likert-scale -3 to 3. The Mastery construct. |
+| MEA | Int | Likert-scale -3 to 3. The Meaning construct. |
+| ENJ | Int | Likert-scale -3 to 3. The Enjoyment construct. |
+| GR | Int | Likert-scale -3 to 3. The Clarity of Goals construct. |
+| CH | Int | Likert-scale -3 to 3. The Challenge construct. |
+| AA | Int | Likert-scale -3 to 3. The Audiovisual Appeal construct. |
+| CUR | Int | Likert-scale -3 to 3. The Curiosity construct. |
 
 ## Sessions
 Session meta data, start time, software version and last commit for prototype.
