@@ -25,7 +25,7 @@ Mouse events, mouse button pressed and released. Includes pixel coordinates.
 | Timestamp | Datetime | Local machine date time. |
 | MouseX | Int | Pixel X-axis position on screen. |
 | MouseY | Int | Pixel Y-axis position on screen. |
-| ButtonIndex | Int | 1 = Right button, 1 = Left button. |
+| ButtonIndex | Int | Mouse button index (left = 1, right = 2, wheel up = 4, wheel down = 5), [more info at godot](https://docs.godotengine.org/en/stable/classes/class_%40globalscope.html#enum-globalscope-mousebutton). |
 | Action | String | Whether mouse button was pressed or released. |
 | Utility | String | Item being dragged or "use" if no item is being dragged. |
 | Hit | String | Identified asset being clicked or having item dropped on. |
