@@ -65,17 +65,17 @@ Results from MiniPXI including birth year and gender.
 | Timestamp | Datetime | Local machine date time. |
 | BirthYear | Int | The birth year of the participant. |
 | Gender | String | Gender of participant (Male, Female, \<none\>). |
-| AUT | Int | Likert-scale -3 to 3. The Autonomy construct. |
-| EC | Int | Likert-scale -3 to 3. The Ease of Control construct. |
-| IMM | Int | Likert-scale -3 to 3. The Immersion construct. |
-| PF | Int | Likert-scale -3 to 3. The Progress Feedback construct. |
-| MAS | Int | Likert-scale -3 to 3. The Mastery construct. |
-| MEA | Int | Likert-scale -3 to 3. The Meaning construct. |
-| ENJ | Int | Likert-scale -3 to 3. The Enjoyment construct. |
-| GR | Int | Likert-scale -3 to 3. The Clarity of Goals construct. |
-| CH | Int | Likert-scale -3 to 3. The Challenge construct. |
-| AA | Int | Likert-scale -3 to 3. The Audiovisual Appeal construct. |
-| CUR | Int | Likert-scale -3 to 3. The Curiosity construct. |
+| AUT | Int | 7-Point Likert scale (-3 to 3). The Autonomy construct. |
+| EC | Int | 7-Point Likert scale (-3 to 3). The Ease of Control construct. |
+| IMM | Int | 7-Point  Likert scale (-3 to 3). The Immersion construct. |
+| PF | Int | 7-Point Likert scale (-3 to 3). The Progress Feedback construct. |
+| MAS | Int | 7-Point Likert scale (-3 to 3). The Mastery construct. |
+| MEA | Int | 7-Point Likert scale (-3 to 3). The Meaning construct. |
+| ENJ | Int | 7-Point Likert scale (-3 to 3). The Enjoyment construct. |
+| GR | Int | 7-Point Likert scale (-3 to 3). The Clarity of Goals construct. |
+| CH | Int | 7-Point Likert scale (-3 to 3). The Challenge construct. |
+| AA | Int | 7-Point Likert scale (-3 to 3). The Audiovisual Appeal construct. |
+| CUR | Int | 7-Point Likert scale (-3 to 3). The Curiosity construct. |
 
 ## Sessions
 Session meta data, start time, software version and last commit for prototype.
